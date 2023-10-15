@@ -1,0 +1,30 @@
+.header{
+    height: 15vh;
+    background-color: #333333;
+    display: flex;
+}
+
+.logo{
+    height: 60px;
+    width: 60px;
+    margin: 10px 20px 0 10px;
+    border-radius: 60%;
+}
+
+.sections{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    margin-top: 70px;
+}
+
+li{
+    margin-right: 50px;
+    list-style: none;
+    font-size: 25px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
